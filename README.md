@@ -39,7 +39,7 @@ Steps performed before visualization:
 ### [2] Category vs Sales (Bar Chart)  
 - **Insight:** Technology leads in sales, followed by Furniture, while Office Supplies lags behind.  
 
-###[3] Sales Trend Over Years (Line Chart)  
+### [3] Sales Trend Over Years (Line Chart)  
 - **Insight:** Sales dipped around 2015–2016 but showed strong growth after 2017.  
 
 ### [4] Top 10 Sub-Categories by Sales (Horizontal Bar Chart)  
